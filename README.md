@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <b>Aleksey S.</b><br><br>
+  Technical writer at
+  <br> <img src="https://github.com/703lovelost/703lovelost/blob/main/POWWWER.svg">
+  <br><br>
+  Currently studying at DRI NSU.
+</p>
+<details>
+    <summary>Searching for the energy through these performances:</summary>
+    Underoath @ Furnace Fest 2002: https://www.youtube.com/watch?v=TZeU8omQn-8
+    <br>The Dillinger Escape Plan @ Virgin Mega Store 2005: https://www.youtube.com/watch?v=sROSJSgeYsw
+</details>
 
-<!--
-**703lovelost/703lovelost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
