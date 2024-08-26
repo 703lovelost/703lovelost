@@ -1,7 +1,6 @@
 <p align="center">
   <b>Aleksey S.</b><br><br>
-  Technical writer at
-  <br> <img src="https://github.com/703lovelost/703lovelost/blob/main/POWWWER.svg">
+  The one and only technical writer.
   <br><br>
   Currently studying at DRI NSU.
 </p>
